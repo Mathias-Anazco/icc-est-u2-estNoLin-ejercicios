@@ -32,6 +32,7 @@ public class Node {
         this.value = value;
     }
 
+
     public Node getLeft() {
         return left;
     }

@@ -68,6 +68,7 @@ public class App {
         int profundidad = depthCalculator.maxDepth(root);
 
         System.out.println("Profundidad máxima del árbol: " + profundidad);
+        System.out.println("----------------------------------------");
 
     }
 

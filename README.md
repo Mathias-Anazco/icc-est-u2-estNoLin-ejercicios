@@ -56,7 +56,7 @@ Una estructura tipo List<LinkedList<Integer>> que representa el árbol nivel por
 - Clase: MaxDepthBST
 - Método principal: maxDepth(Node root)
 
-
+  
 - Descripción:
 Este método calcula la profundidad máxima (altura) del árbol binario.
 Compara la profundidad de los subárboles izquierdo y derecho de cada nodo y retorna el valor máximo más uno (por el nodo actual).
